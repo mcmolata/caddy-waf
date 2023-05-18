@@ -1,4 +1,4 @@
-module github.com/BraveRoy/caddy-waf
+module github.com/mcmolata/caddy-waf
 
 go 1.15
 
