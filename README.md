@@ -1,6 +1,7 @@
 # caddy-waf
 Waf based on caddy2
 
+take it all in your Caddyfile
 example
 ```
    route {
