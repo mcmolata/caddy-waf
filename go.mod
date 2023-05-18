@@ -1,6 +1,6 @@
 module github.com/mcmolata/caddy-waf
 
-go 1.15
+go 1.18
 
 require (
 	github.com/caddyserver/caddy/v2 v2.2.0
